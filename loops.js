@@ -17,9 +17,6 @@ function whileLoop(n) {
   return('done')
 }
 
-function incrementVariable() {
-  false
-}
 function doWhileLoop(array) {
   do {
     array.pop();
